@@ -2,7 +2,7 @@
 
 Projeto referente ao curso "Manipulando o DOM".
 
-## Tecnologia utilizadas
+## Tecnologias utilizadas
 
 1. HTML
 2. CSS 
